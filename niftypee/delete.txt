@@ -1,0 +1,6 @@
+delete niftypee/delete.txt
+delete niftypee/mkdir.sortable.txt
+delete niftypee/mkdir.txt
+delete niftypee/put.txt
+delete niftypee/rmdir.sortable.txt
+delete niftypee/rmdir.txt
