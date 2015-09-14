@@ -1,6 +1,0 @@
-D	niftypee/delete.txt
-D	niftypee/mkdir.sortable.txt
-D	niftypee/mkdir.txt
-D	niftypee/put.txt
-D	niftypee/rmdir.sortable.txt
-D	niftypee/rmdir.txt
